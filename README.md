@@ -1,4 +1,4 @@
-- 👋 Hi, I’m $$\mathfrak{AlexH}$$
+- 👋 Hi, I’m $\mathfrak{AlexH}$
 - 👀 Student of grade 9 + 0.5*civil scientist
 - 🌱 Physics & cosmology passionator
 - 💞️ Conducting research on <kbd>exoplanet</kbd>
