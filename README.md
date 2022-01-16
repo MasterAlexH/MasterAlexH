@@ -8,7 +8,7 @@
 > - 📖 Programs for RESEARCH PROJECTS
 > - <kbd>Python3</kbd> + <kbd>Pytorch</kbd>
 ----
-
+$$ \int\int\int\int\int\int\int\int\int\int\int\int$$
 
 <!---
 MasterAlexH/MasterAlexH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
