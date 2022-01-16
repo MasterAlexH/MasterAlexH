@@ -7,6 +7,13 @@
 > - 🌱 I’m currently learning relativety and differential geometry
 > - 📖 Programs for RESEARCH PROJECTS
 > - Python3 + Pytorch/Anacondasssssss
+----
+$$
+\begin{Bmatrix}
+   a & b \\
+   c & d
+\end{Bmatrix}
+$$
 
 <!---
 MasterAlexH/MasterAlexH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
