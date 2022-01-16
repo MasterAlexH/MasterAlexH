@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasterAlexH
+- 👋 Hi, I’m $$\mathfrak{AlexH}$$
 - 👀 Student of grade 9 + 0.5*civil scientist
 - 🌱 Physics & cosmology passionator
 - 💞️ Conducting research on <kbd>exoplanet</kbd>
@@ -8,8 +8,7 @@
 > - 📖 Programs for RESEARCH PROJECTS
 > - <kbd>Python3</kbd> + <kbd>Pytorch</kbd>
 ----
-$$ \int\int\int\int\int\int\int\int\int\int\int\int$$
-
+$...$
 <!---
 MasterAlexH/MasterAlexH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
